@@ -1,1 +1,15 @@
+title: Dos and Don'ts for digitisation workflows
+logo: /assets/img/logo.jpg
+description: A collection of typical questions and problems that occur during digitsation projects including possible answers.
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-minimal
+collections:
+  dads:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: dads
+    values:
+      layout: default 
